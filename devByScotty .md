@@ -11,7 +11,7 @@ I'm a passionate Software Developer with a strong foundation in software develop
 ## Education 🎓
 
 - **National Senior Certificate**: Thistle Grove Combine, Completed in 2017
-- **Diploma in Software Development**: Thswane University Of Technology, Completed at Third-Level Of Study
+- **Diploma in Software Development *: Thswane University Of Technology, Completed
 
 ## Certifications 📜
 
